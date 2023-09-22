@@ -1,11 +1,11 @@
 ### Hi there 👋 
 ### This is Fernando Roldán!
+ <img align="right" alt="img" src="https://up.file.ihxx.cc/halo/logo%E9%85%8D%E8%89%B2%E5%9B%BE.png!webp" width="50%" height="auto" />
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/git-kings)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lphsohungry@gmail.com)
 
-<img align="right" alt="img" src="https://up.file.ihxx.cc/halo/logo%E9%85%8D%E8%89%B2%E5%9B%BE.png!webp" width="50%" height="auto" />
- 
+
 Welcome to my Github page! 
 
 
