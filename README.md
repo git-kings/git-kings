@@ -18,7 +18,8 @@ Welcome to my Github page!
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Study 3-4 hours per day
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kings)](https://github.com/anuraghazra/github-readme-stats)
+
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=git-kings&show_icons=true&hide_border=true" />
