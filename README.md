@@ -20,7 +20,7 @@ Welcome to my Github page!
 - Study 3-4 hours per day
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitKings)](https://github.com/git-kings?tab=repositories)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kings)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :computer: Programming languages and tools: 
 <p>
